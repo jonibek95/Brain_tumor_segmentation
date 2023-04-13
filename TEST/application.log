@@ -1,0 +1,35 @@
+2023-04-10 10:19:02,629 :: INFO <module> :: Processing wsi 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:19:03,683 :: INFO extract_normal_region_from_wsi :: 	 Extracting normal regions from wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01.tiff'
+2023-04-10 10:21:32,789 :: INFO <module> :: Processing wsi 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:21:33,752 :: INFO extract_normal_region_from_wsi :: 	 Extracting normal regions from wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01.tiff'
+2023-04-10 10:37:16,042 :: INFO <module> :: 	 '11620/13335/28832' tiles identified as ROI by model
+2023-04-10 10:37:16,043 :: INFO <module> :: -
+2023-04-10 10:37:33,505 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:39:05,382 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 10:39:05,384 :: INFO <module> :: -
+2023-04-10 10:40:04,587 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:41:37,067 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 10:41:37,067 :: INFO <module> :: -
+2023-04-10 10:43:32,233 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:45:04,555 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 10:45:04,556 :: INFO <module> :: -
+2023-04-10 10:52:52,326 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 10:54:25,175 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 10:54:25,176 :: INFO <module> :: -
+2023-04-10 11:02:47,372 :: INFO <module> :: Processing wsi 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:02:48,459 :: INFO extract_normal_region_from_wsi :: 	 Extracting normal regions from wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01.tiff'
+2023-04-10 11:21:13,279 :: INFO <module> :: 	 '11620/13335/28832' tiles identified as ROI by model
+2023-04-10 11:21:13,281 :: INFO <module> :: -
+2023-04-10 11:22:07,193 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:22:35,217 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:24:00,860 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 11:24:00,861 :: INFO <module> :: -
+2023-04-10 11:25:00,276 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:26:24,555 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 11:26:24,557 :: INFO <module> :: -
+2023-04-10 11:28:23,706 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:29:48,579 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 11:29:48,580 :: INFO <module> :: -
+2023-04-10 11:31:20,332 :: INFO <module> :: Segmenting wsi image: 'CODIPAI-BRTU-SS-00004-S-TP-01'
+2023-04-10 11:32:45,395 :: INFO <module> :: 	 '8227' tiles identified as ROI after post processing
+2023-04-10 11:32:45,396 :: INFO <module> :: -
