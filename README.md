@@ -66,12 +66,7 @@ Segmentation Output (1-channel mask)
 
 ---
 
-## 📈 Training & Results
-
-| Metric | Score |
-|--------|------|
-| **F1-score** | **> 90%** |
-| **IoU (Intersection over Union)** | **> 90%** |
+## Results
 
 **Prediction Example**
 
@@ -89,10 +84,10 @@ Segmentation Output (1-channel mask)
 git clone https://github.com/jonibek95/Brain_tumor_segmentation.git
 cd Brain_tumor_segmentation
 
-## Install dependencies
+# Install dependencies
 
 pip install -r requirements.txt
 
-## Run inference on patches
+# Run inference on patches
 
 python infer.py --input ./input_patches/ --output ./results/
