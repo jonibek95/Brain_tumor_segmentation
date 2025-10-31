@@ -132,5 +132,3 @@ Contributions are welcome. To propose changes:
 2. Provide reproducible steps or minimal examples.
 3. Submit a pull request with concise commits and adhere to existing coding conventions.
 
-## License
-No explicit license file is present. Please verify usage rights with the repository owners before distributing or commercializing the code.
