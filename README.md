@@ -57,3 +57,42 @@ However, **WSI files are extremely high resolution (up to 80,000 × 80,000 px)**
 ---
 
 ## 🧩 Model Architecture
+
+EfficientNet-B4 Encoder
+↓
+UNet++ Decoder
+↓
+Segmentation Output (1-channel mask)
+
+---
+
+## 📈 Training & Results
+
+| Metric | Score |
+|--------|------|
+| **F1-score** | **> 90%** |
+| **IoU (Intersection over Union)** | **> 90%** |
+
+**Prediction Example**
+
+<p align="center">
+  <img src="assets/pred_gt.png" width="420"/>
+  <img src="assets/pred_output.png" width="420"/>
+</p>
+
+---
+
+## 🚀 Usage
+
+```bash
+# Clone repository
+git clone https://github.com/jonibek95/Brain_tumor_segmentation.git
+cd Brain_tumor_segmentation
+
+## Install dependencies
+
+pip install -r requirements.txt
+
+## Run inference on patches
+
+python infer.py --input ./input_patches/ --output ./results/
